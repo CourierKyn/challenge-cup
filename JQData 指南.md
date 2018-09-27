@@ -11,4 +11,4 @@ from jqdatasdk import *
 auth('**********','**********')
 ```
 
-**调用数据**：详见JQData数据调用方法：https://www.joinquant.com/help/api/help?name=JQData#%E6%95%B0%E6%8D%AE%E8%B0%83%E7%94%A8%E6%96%B9%E6%B3%95
+**调用数据**：详见 [JQData数据调用方法](https://www.joinquant.com/help/api/help?name=JQData#%E6%95%B0%E6%8D%AE%E8%B0%83%E7%94%A8%E6%96%B9%E6%B3%95)
