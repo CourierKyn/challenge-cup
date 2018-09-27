@@ -1,4 +1,4 @@
-**安装 JQData**：打开本地 cmd 终端（确保可以使用 conda、pip 等命令，否则使用 anaconda prompt），输入如下语句 ，安装 JQData 数据包：
+**安装 JQData**：打开本地 cmd 终端（确保可以使用 `conda`、`pip` 等命令，否则使用 anaconda prompt），输入如下语句 ，安装 JQData 数据包：
 
 ```
 pip install git+https://github.com/JoinQuant/jqdatasdk.git -i https://mirrors.aliyun.com/pypi/simple/
