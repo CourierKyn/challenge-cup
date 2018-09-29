@@ -11,7 +11,7 @@ JQData：2005 年至今的基金等基础金融数据，每日可访问 100 万�
 #### 获取所有基金列表
 
 ```python
-get_all_securities(types=['fund'])
+get_all_securities(types='fund')
 ```
 
 详见 [获取所有标的信息](https://www.joinquant.com/help/api/help?name=JQData#get_all_securities-获取所有标的信息)
