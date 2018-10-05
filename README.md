@@ -14,7 +14,7 @@
 pd.read_hdf('fund_value_df.h5')
 ```
 
-[`fund_value_df.h5`](https://github.com/CourierKyn/challenge-cup/blob/master/fund_value_df.h5)：所有基金自上市以来每个交易日的累计净值。
+[`fund_value_df.h5`](https://github.com/CourierKyn/challenge-cup/raw/master/fund_value_df.h5)：所有基金自上市以来每个交易日的累计净值。
 
 #### [获取单个基金信息](https://www.joinquant.com/help/api/help?name=JQData#get_security_info-获取单个标的信息)
 
