@@ -12,7 +12,7 @@
 pd.read_hdf('fund_value_df.h5')
 ```
 
-[fund_value_df.h5](https://github.com/CourierKyn/challenge-cup/blob/master/fund_value_df.h5)：基金在一段时间的每个交易日的累计净值。
+[fund_value_df.h5](https://github.com/CourierKyn/challenge-cup/blob/master/fund_value_df.h5)：所有基金自上市以来每个交易日的累计净值。
 
 #### 获取单个基金信息
 
