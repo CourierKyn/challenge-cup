@@ -2,9 +2,9 @@
 
 ## JQData 数据
 
-#### JQData 证券代码标准格式
+#### [安装 JQData](https://github.com/CourierKyn/challenge-cup/blob/master/其他说明.md#安装-jqdata)
 
-由于同一代码可能代表不同的交易品种，JQData 给每个交易品种后面都添加了该市场特定的代码后缀，如 `security='600519.XSHG'`。可从基金列表中得到。
+#### [JQData 证券代码标准格式](https://github.com/CourierKyn/challenge-cup/blob/master/其他说明.md#jqdata-证券代码标准格式)
 
 #### 所有基金累计净值
 
@@ -14,15 +14,15 @@ pd.read_hdf('fund_value_df.h5')
 
 [fund_value_df.h5](https://github.com/CourierKyn/challenge-cup/blob/master/fund_value_df.h5)：所有基金自上市以来每个交易日的累计净值。
 
-#### 获取单个基金信息
-
-详见 [获取单个标的信息](https://www.joinquant.com/help/api/help?name=JQData#get_security_info-获取单个标的信息)
+#### [获取单个基金信息](https://www.joinquant.com/help/api/help?name=JQData#get_security_info-获取单个标的信息)
 
 #### 可视化
 
 - [所有基金列表.csv](https://github.com/CourierKyn/challenge-cup/blob/master/所有基金列表.csv)
 
 - [基金累计净值示例.csv](https://github.com/CourierKyn/challenge-cup/blob/master/基金累计净值示例.csv)
+
+#### [关于所有基金列表](https://github.com/CourierKyn/challenge-cup/blob/master/其他说明.md#关于所有基金列表)
 
 ## Next
 
