@@ -1,5 +1,7 @@
 # 基于深度学习的基金投资组合智能投顾
 
+## [`挑战杯项目规划.pdf`](https://github.com/CourierKyn/challenge-cup/raw/master/挑战杯项目规划.pdf)
+
 ## JQData 数据
 
 #### [安装 JQData](https://github.com/CourierKyn/challenge-cup/blob/master/其他说明.md#安装-jqdata)
