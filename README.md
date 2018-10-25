@@ -1,6 +1,6 @@
 # 基于深度学习的基金投资组合智能投顾
 
-### [`挑战杯项目规划.pdf`](https://github.com/CourierKyn/challenge-cup/raw/master/挑战杯项目规划.pdf)
+<h3>[`挑战杯项目规划.pdf`](https://github.com/CourierKyn/challenge-cup/raw/master/挑战杯项目规划.pdf)</h3>
 
 ### [`第一周计划简述.docx`](https://github.com/CourierKyn/challenge-cup/raw/master/第一周计划简述.docx)
 
